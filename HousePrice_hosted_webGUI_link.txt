@@ -2,5 +2,5 @@ NAME: HUNKANRIN MAUTIN GODWIN
 REG NO: 250000875
 Machine Learning Algorithm: Loginear Regression, Random Forest Regressor
 Model Persistence Method: Joblib
-LIVE URL: 
+LIVE URL: https://house-price-prediction-jbow.onrender.com
 GIT HUB REPOSITORY LINK: https://github.com/Mautin544/House_Price_Prediction 
